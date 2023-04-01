@@ -34,6 +34,6 @@ Contributions are welcome! If you'd like to help improve the Hangman Game, pleas
 4.	Create a Pull Request to the main branch
 5.	Wait for your changes to be reviewed and merged
 Please make sure to follow the project's coding standards and provide clear descriptions of your changes in the Pull Request.
-License
-This project is released under the MIT License. For more information, please see the LICENSE file
 
+License
+This project is released under the MIT License. 
